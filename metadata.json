@@ -1,0 +1,6 @@
+{
+  "name": "BE ISLAMIC",
+  "description": "Professional Islamic education and Quran learning platform grounded in verified canonical sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
